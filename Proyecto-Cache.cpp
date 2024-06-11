@@ -5,7 +5,6 @@ using namespace std;
 #define TAM_CACHE 4
 
 int main(){
-	
 	int i,j;
 	int numero, tam;
 	int c1,c2;
