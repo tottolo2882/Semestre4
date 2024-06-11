@@ -1,6 +1,5 @@
 ﻿## Funcionamiento Del programa de Fallos y Asociatividad en la cache
 
-Guillermo Cedeño 30.523.039
 Héctor Abreu 30.000.231
 
 ---
